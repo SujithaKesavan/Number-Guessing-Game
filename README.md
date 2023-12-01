@@ -22,7 +22,8 @@ Welcome to the Number Guessing Game repository! This project is a simple yet ent
 
   **3.Run the application and start playing the Number Guessing Game!**
 
-  Contribution Guidelines:
+# Contribution Guidelines:
+
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
 
 # License:
