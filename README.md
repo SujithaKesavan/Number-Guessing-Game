@@ -11,3 +11,7 @@ Welcome to the Number Guessing Game repository! This project is a simple yet ent
 **3.Feedback and Scoring:** Users receive feedback on their guesses, including whether the actual number is higher or lower. The game keeps track of the number of attempts.
 
 **4.Play Again Option:** After a round is complete, players have the option to play again without restarting the application.
+
+# Getting Started:
+
+     git clone https://github.com/SujithaKesavan/Number-Guessing-Game.git
