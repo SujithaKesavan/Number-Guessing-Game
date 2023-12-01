@@ -14,4 +14,10 @@ Welcome to the Number Guessing Game repository! This project is a simple yet ent
 
 # Getting Started:
 
+  **1.Clone the repository:**
+  
      git clone https://github.com/SujithaKesavan/Number-Guessing-Game.git
+
+  **2.Open the project in NetBeans IDE.**
+
+  **3.Run the application and start playing the Number Guessing Game!**
