@@ -21,3 +21,11 @@ Welcome to the Number Guessing Game repository! This project is a simple yet ent
   **2.Open the project in NetBeans IDE.**
 
   **3.Run the application and start playing the Number Guessing Game!**
+
+  Contribution Guidelines:
+Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
+
+# License:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to explore, play, and contribute to make this Number Guessing Game even more enjoyable!
